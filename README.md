@@ -13,11 +13,17 @@ Using these datasets, we preprocess the data, perform exploratory data analysis,
 
 ## Repository Structure
 RetailSalesForecast/
+
 ├── Data/
+
 │ ├── Features_data_set.csv
+
 │ ├── sales_data_set.csv
+
 │ └── stores_data_set.csv
+
 ├── README.md
+
 ├── RetailSalesForecast.ipynb
 
 ## Dependencies
